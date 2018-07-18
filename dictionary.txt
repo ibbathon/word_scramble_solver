@@ -4498,9 +4498,6 @@ bagpipes
 bags
 baguette
 baguettes
-bah
-baht
-bahts
 bail
 bailable
 bailed
